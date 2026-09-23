@@ -4,5 +4,3 @@ def ft_water_reminder():
         print("Water the plante!")
     else:
         print("Plants are fine")
-
-ft_water_reminder()
